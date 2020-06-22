@@ -1,11 +1,7 @@
 <img alt="Pequena amostragem do sistema (mobile e web)" src="./assets-README/logo1.png" />
 
-<br/>
-
 <h1 align="center"><img alt="ECOLETA" src="./assets-README/logo2.svg" width="220px" /></h1>
 <p align="center">Esse sistema lhe auxiliará tanto em saber onde existem postos de coleta de resíduos na sua cidade, quanto o que eles coletam!<p/>
-
-<br/>
 
 <h2>🚀Tecnologias:</h3>
 <ul>
