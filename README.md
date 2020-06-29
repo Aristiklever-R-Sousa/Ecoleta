@@ -16,10 +16,15 @@
 	</li>
 	<li><a href="https://expo.io/">Expo</a></li>
 </ul>
-<br/><br/>
 
-<h2>Como faço para contribuir?</h2>
+<h2> ♻️ Como faço para contribuir? </h2>
 
-<br/><br/>
+- Faça um Fork desse repositório;
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+<br/>
+
+---
 
 <p align="center">Feito com muito ❤ por mim, Aristiklever Sousa😊.</p>
